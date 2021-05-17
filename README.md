@@ -1,2 +1,1 @@
-#Mi Proyecto Git
-
+#  MiProyectoGit
